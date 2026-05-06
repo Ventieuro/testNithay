@@ -5,6 +5,8 @@ public class CiaoMondo {
 		System.out.println("Ciao Mondo!A");
 		System.out.println("1"+"2");
 		System.out.println(1+2);
+		
+		//hola
 	}
 
 }
